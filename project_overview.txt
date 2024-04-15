@@ -6,3 +6,12 @@ Project Overview
 4. Code understanding
 5. Understanding the deployment
 6. Conclusion
+
+
+7. Problem Description
+8. Understand the application scope
+9. Tour to the existing solution
+
+10. Solution Description
+11. Tour to the Architecture diagram
+12. Cost involved

@@ -1,0 +1,22 @@
+Structure Overview
+
+All Components
+    1. Data Ingestion
+    2. Data Transformation
+    3. Model Training
+    4. Model Pusher
+    5. Predictions
+
+Configuration
+costants
+entity
+exception
+logger
+utils
+pipeline
+frontend app design
+
+
+Understanding the deployment
+-Tour to the cloud and service overview
+
